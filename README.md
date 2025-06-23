@@ -34,7 +34,7 @@ Given a 15-second sports video clip (`15sec_input_720p.mp4`), detect all players
 
 ## How to Run (in Google Colab)
 
-1. Open the `track_players.ipynb` notebook .
+1. Open the `Real-time player tracker` notebook .
 2. Upload the following files when prompted:
    - `15sec_input_720p.mp4`
    - `custom_model.pt`
@@ -47,7 +47,8 @@ Given a 15-second sports video clip (`15sec_input_720p.mp4`), detect all players
 
 *A frame from the output video showing bounding boxes and consistent player IDs.*
 
-*(Insert image or sample frame here if available.)*
+![image](https://github.com/user-attachments/assets/8e84a995-90c3-4f10-8aca-10d16bb5f347)
+
 
 ## Future Enhancements
 
@@ -60,7 +61,7 @@ Given a 15-second sports video clip (`15sec_input_720p.mp4`), detect all players
 
 **Heemaal Jaglan**  
 Focused on AI, Machine Learning, and Data Analytics  
-GitHub:  
+GitHub: https://github.com/Heemaal
 LinkedIn: https://www.linkedin.com/in/heemaal-jaglan-144bb225b/
 ## License
 
