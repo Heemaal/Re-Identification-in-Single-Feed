@@ -28,7 +28,7 @@ Given a 15-second sports video clip (`15sec_input_720p.mp4`), detect all players
 ## File Structure
 
 - `15sec_input_720p.mp4`: Input sports video used for detection and tracking.
-- `custom_model.pt`: YOLOv5 model trained to detect players and the ball.
+- `Best.pt`: YOLOv5 model trained to detect players and the ball.
 - `output_detected.mp4`: Final video output with tracked player IDs.
 - `track_players.ipynb`: Google Colab notebook with full code implementation.
 
